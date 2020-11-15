@@ -8,8 +8,10 @@ disici
 ##实验过程  
 1.  
 ##核心方法  
-1.  
-/```1.public class Graduate {
+1.
+/```
+
+1.public class Graduate {
 				
 			String name;
 			String sex;
@@ -21,8 +23,8 @@ disici
 		public Graduate(String name, String sex, int age ) {
 			this.name=name;
 			this.sex=sex;
-			this.age=age;  
-			```/
+			this.age=age;  ```/
+			
       
       
 
