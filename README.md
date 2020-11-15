@@ -19,7 +19,7 @@ disici
 		public Graduate(String name, String sex, int age ) {
 			this.name=name;
 			this.sex=sex;
-			this.age=age;```  
+			this.age=age;```/  
       
       
       
