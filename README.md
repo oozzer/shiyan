@@ -8,6 +8,7 @@ disici
 ##实验过程  
 1.  
 ##核心方法  
+1.  
 ```1.public class Graduate {
 				
 			String name;
