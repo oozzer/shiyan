@@ -9,7 +9,8 @@ disici
 1.  
 ##核心方法   
 1.  
-```public class Graduate {	
+```  
+public class Graduate {	
 			String name;
 			String sex;
 			int  age;
@@ -21,7 +22,7 @@ disici
 			this.name=name;
 			this.sex=sex;
 			this.age=age;  
-			```  
+```  
 2.  
 ```Graduate  g = new Graduate("宋纪龙","男",20);
 		System.out.println("-------个人信息管理-------");
@@ -35,5 +36,5 @@ disici
 		g.setFee(fee);
 		System.out.println("-------------------------"+"\n");		
 		System.out.println("请输入学费：");  
-		```
+```
 
