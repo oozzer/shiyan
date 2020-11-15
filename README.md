@@ -7,7 +7,8 @@ disici
 了解异常的使用方法，并在程序中根据输入情况做异常处理  
 ##实验过程  
 1.  
-```public class Graduate {
+##核心方法  
+```1.public class Graduate {
 				
 			String name;
 			String sex;
