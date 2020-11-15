@@ -7,9 +7,9 @@ disici
 了解异常的使用方法，并在程序中根据输入情况做异常处理  
 ##实验过程  
 1.  
-##核心方法  
+##核心方法   
 1.  
-```  public class Graduate {	
+```public class Graduate {	
 			String name;
 			String sex;
 			int  age;
@@ -20,4 +20,20 @@ disici
 		public Graduate(String name, String sex, int age ) {
 			this.name=name;
 			this.sex=sex;
-			this.age=age;```
+			this.age=age;  
+			```  
+2.  
+```Graduate  g = new Graduate("宋纪龙","男",20);
+		System.out.println("-------个人信息管理-------");
+		System.out.println("姓名："+g.getName());
+		System.out.println("性别："+g.getSex());
+		System.out.println("年龄："+g.getAge());
+		System.out.println("-------------------------"+"\n");
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("请输入月收入：");
+		float fee = scanner.nextFloat();
+		g.setFee(fee);
+		System.out.println("-------------------------"+"\n");		
+		System.out.println("请输入学费：");  
+		```
+
