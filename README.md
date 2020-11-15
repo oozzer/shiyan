@@ -19,11 +19,12 @@ disici
 		public Graduate(String name, String sex, int age ) {
 			this.name=name;
 			this.sex=sex;
-			this.age=age;```\
+			this.age=age;  
+			```/
       
       
-      
-     ``` Graduate  g = new Graduate("宋纪龙","男",20);
+2.      
+    Graduate  g = new Graduate("宋纪龙","男",20);
 		System.out.println("-------个人信息管理-------");
 		System.out.println("姓名："+g.getName());
 		System.out.println("性别："+g.getSex());
@@ -34,7 +35,7 @@ disici
 		float fee = scanner.nextFloat();
 		g.setFee(fee);
 		System.out.println("-------------------------"+"\n");		
-		System.out.println("请输入学费："); ``` 
+		System.out.println("请输入学费："); 
     scanner输入法
     
       
