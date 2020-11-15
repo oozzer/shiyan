@@ -9,7 +9,7 @@ disici
 1.  
 ##核心方法  
 1.  
-```public class Graduate {	
+```  public class Graduate {	
 			String name;
 			String sex;
 			int  age;
